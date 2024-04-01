@@ -1,0 +1,25 @@
+EXPECT
+= think sth will happen as it is likely to
+
+SAME SUBJECT 
+ => EXPECT TO DO [STH]
+ I expect + I get a promotion =>
+ I expect TO GET a promotion.
+ 
+DIFFRENT SUBJECT
+ => TO EXPECT [SB(obj)] TO DO [STH]
+ I expect + she gives me a promotion =>
+ I expect HER TO GIVE me a promotion.
+ 
+
+TO EXPECT [SB] TO DO [STH]
+= demand sth of sb as it's theire duty to do it
+I expect you to be always on time.
+
+PASSIVE
+You ARE EXPECTED TO BE on time
+As a teacher I AM EXPECTED TO MARK test.
+
+
+I don't want HER TO EXPECT ME To come back.
+My boss didn't EXPECT ME TO WANT HIM TO GIVE me a promotion,.

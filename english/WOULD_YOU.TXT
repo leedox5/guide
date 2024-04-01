@@ -1,0 +1,5 @@
+Would you like a cup of tea before you go?
+---------------- ---------- -------------
+
+Would you []?
+Would you [put the text in the Ringle document so I can see it]?

@@ -1,0 +1,26 @@
+I've been to Busan before.
+Have you ever been to       Florida ?
+------------- -------       -------
+
+Have you ever taken out the trash ?
+------------- ------------- -----
+
+Have you ever done anything like this before ?
+------------------ ---------------------^===
+   I've never seen anything like this before.
+               I can't live like this anymore.
+
+
+Haven't you ever been sick before ?
+--------------------- -------^===
+
+  Most dogs live in a place like this.
+  --------- --------- ---------- ----      
+  
+
+How long have you been doing this?
+---------------------- ---------- 
+[ho long][ave you been]
+
+How long have you been sitting there?
+---------------------- -------------
